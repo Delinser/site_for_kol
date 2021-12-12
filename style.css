@@ -83,14 +83,14 @@ width: 182px;
 height: 100%;
 margin-left: 44px ;
 float: left;
-background-image: url(img/Belorussian_Hybride_Flag.png);
+background-image: url(/Belorussian_Hybride_Flag.png);
 }
 #right_side{
 width: 182px;
 height: 100%;
 margin-right: 44px;
 float: right;
-background-image: url(img/Belorussian_Hybride_Flag.png);
+background-image: url(/Belorussian_Hybride_Flag.png);
 }
 /* .sides_img{
     margin-left: 0;
